@@ -1,5 +1,5 @@
-# 💫 Hi, I'm Abhivansh:
-I'm a second-year undergraduate at IIT Roorkee with a strong interest for blockchain technologies, particularly decentralized finance and protocol engineering. I actively explore how modern blockchain primitives come together, from consensus and state execution to zero-knowledge systems and cross-chain architectures. Alongside this, I love contributing to open-source projects, learning from real-world codebases, and building tools that push the ecosystem forward. I'm always excited to experiment, collaborate, and work on innovative blockchain ideas.
+# 💫 Hi, I'm Abhivansh
+I'm a second-year undergraduate at IIT Roorkee with a strong interest for blockchain technologies, particularly decentralized finance and protocol engineering. I actively explore how modern blockchain tools come together, from consensus and state execution to zero-knowledge systems and cross-chain architectures. Alongside this, I love contributing to open-source projects, learning from real-world codebases, and building tools that push the ecosystem forward. I'm always excited to experiment, collaborate, and work on innovative blockchain ideas.
 
 
 ## 🌐 Socials:
