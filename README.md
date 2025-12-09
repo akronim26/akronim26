@@ -1,5 +1,15 @@
-# 💫 Hi, I'm Abhivansh
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?size=32&color=FFF&width=800&lines=Hi+there!+I'm+Abhivansh!)
+</br>
 I'm a second-year undergraduate at IIT Roorkee with a strong interest for blockchain technologies, particularly decentralized finance and protocol engineering. I love contributing to open-source projects, learning from real-world codebases, and building tools that push the ecosystem forward. I'm always excited to experiment, collaborate, and work on innovative ideas.
+
+
+
+
+
 
 
 ## 🌐 Socials:
