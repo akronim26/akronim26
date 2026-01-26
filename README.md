@@ -1,12 +1,12 @@
 # Hey there 👋
 </br>
-I am ABhivansh, a second-year undergraduate at IIT Roorkee with a strong interest for blockchain technologies, particularly protocol engineering and decentralized finance. I love contributing to open-source projects, learning from real-world codebases, and building tools that push the ecosystem forward. I am always excited to experiment, collaborate, and work on innovative ideas.
+I am Abhivansh, a second-year undergraduate at IIT Roorkee with a strong interest for blockchain technologies, particularly protocol engineering and decentralized finance. I love contributing to open-source projects, learning from real-world codebases, and building tools that push the ecosystem forward. I am always excited to experiment, collaborate, and work on innovative ideas.
 
 ## Projects
 
-- [Orbital](https://github.com/agrawalx/orbital-pool) - Winner at Arbitrum Open House India
+- [Orbital](https://github.com/agrawalx/orbital-pool)
 - [Nexus](https://github.com/BlocSoc-iitr/Nexus)
-- [PayNFC](https://github.com/groverInnovate/NFC-Pay) - 1st runner-up at EthVietnam
+- [PayNFC](https://github.com/groverInnovate/NFC-Pay)
 - [Auction AMM](https://github.com/VeerChaurasia/eth-global)
 
 ## Blogs 
