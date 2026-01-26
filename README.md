@@ -20,7 +20,7 @@
 
 ### 🚀 Notable Projects
 
-- [**Orbital**](https://github.com/agrawalx/orbital-pool) - A multi-dimensional AMM
+- [**Orbital**](https://github.com/agrawalx/orbital-pool) - A multi-dimensional AMM for stablecoins
 - [**Nexus**](https://github.com/BlocSoc-iitr/Nexus) - MCP tool for Hyperliquid chain
 - [**PayNFC**](https://github.com/groverInnovate/NFC-Pay) - NFC-based payment solution
 - [**Auction AMM**](https://github.com/VeerChaurasia/eth-global) - Automated market maker with auction mechanism
