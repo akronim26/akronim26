@@ -27,6 +27,7 @@
 
 ### 🏆 Achievements
 
+- **PLDG Fellow** - Cohort 6
 - **Arbitrum Open House India** - Winner
 - **Arbitrum Open House Online Buildathon** - 1st runners-up
 - **EthVietnam** - 1st runners-up
