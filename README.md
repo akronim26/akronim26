@@ -4,7 +4,7 @@
 
 - 🎓 Undergrad at IIT Roorkee
 - 🔗 Interested in **Blockchain Systems** and **Distributed Systems**
-- 🦀 Working with **Rust** and **Go**, focused on protocol-level & infrastructure problems
+- 🦀 Focused on protocol-level & infrastructure problems
 - 🌱 Actively contributing to open-source projects in the blockchain ecosystem
 - 📧 [31abhivanshj@gmail.com](mailto:31abhivanshj@gmail.com)
 
