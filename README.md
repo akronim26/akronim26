@@ -18,6 +18,7 @@
 ### ✍️ Writing
 
 - [PeerDAS: Scaling Ethereum's Data Availability Layer](https://hackmd.io/Et5WXpOXQse85DWzB94QYw)
+- [Enshrined PBS (ePBS): The Road to Trustless Ethereum](https://hackmd.io/@astaxxoo/BJZS6jP2Wl)
 
 ### 🚀 Notable Projects
 
