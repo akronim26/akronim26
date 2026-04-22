@@ -13,7 +13,6 @@
 - [Teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3Aakronim26+)
 - [Ream](https://github.com/ReamLabs/ream/issues?q=is%3Apr+author%3Aakronim26)
 - [Compose](https://github.com/Perfect-Abstractions/Compose/issues?q=is%3Apr+author%3Aakronim26)
-- [Synapse-sdk](https://github.com/FilOzone/synapse-sdk/issues?q=is%3Apr+author%3Aakronim26)
 
 ### ✍️ Writing
 
