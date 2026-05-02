@@ -22,7 +22,7 @@
 ### 🚀 Notable Projects
 
 - [**Orbital**](https://github.com/agrawalx/orbital-pool) - A multi-dimensional AMM for stablecoins
-- [**FluxDB**](https://github.com/BlocSoc--iitr) - A SQL database written in Rust
+- [**FluxDB**](https://github.com/BlocSoc--iitr/FluxDB) - A SQL database written in Rust
 - [**ePBS-sim**](https://github.com/akronim26/ePBS-sim) - A simulation of enshrined Proposer-Builder Separation (ePBS)
 - [**Nexus**](https://github.com/BlocSoc-iitr/Nexus) - MCP tool for Hyperliquid chain
 - [**PayNFC**](https://github.com/groverInnovate/NFC-Pay) - NFC-based payment solution
