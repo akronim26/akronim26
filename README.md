@@ -12,6 +12,7 @@
 
 - [Ream](https://github.com/ReamLabs/ream/issues?q=is%3Apr+author%3Aakronim26)
 - [Teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3Aakronim26+)
+- [leanEthereum](https://github.com/leanEthereum/leanSpec/issues?q=is%3Apr+author%3Aakronim26)
 - [Compose](https://github.com/Perfect-Abstractions/Compose/issues?q=is%3Apr+author%3Aakronim26)
 
 ### ✍️ Writing
